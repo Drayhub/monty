@@ -1,0 +1,218 @@
+# This program prints "School" followed by a newline
+
+# Initialize a memory cell to 0 and move the pointer to the right
+>
++
+[
+    <
+    +
+    +
+    +
+    +
+    +
+    +
+    >
+    -
+]
+<
+.
+
+# Loop through the characters "S", "c", "h", "o", "o", "l" and print each one
+>
++
++
++
++
++
+[
+    <
+    +
+    +
+    +
+    +
+    >
+    -
+]
+<
++
+.
++
++
++
++
++
+.
++
++
++
++
+[
+    -
+]
+>
++
++
++
++
++
+[
+    <
+    +
+    +
+    +
+    >
+    -
+]
+<
+.
+>
++
++
++
++
++
++
++
+[
+    <
+    +
+    +
+    +
+    +
+    +
+    >
+    -
+]
+<
+.
+>
++
++
++
++
++
+[
+    <
+    +
+    +
+    +
+    >
+    -
+]
+<
+.
++
++
+.
++
+.
+-
+-
+-
+-
+-
+-
+.
+
+# Move the pointer to the left and decrement the memory cell until it reaches 0
+[
+    -
+]
+>
++
++
++
++
++
+[
+    <
+    +
+    +
+    +
+    >
+    -
+]
+<
++
+.
+[
+    -
+]
+
+# Move the pointer to the right and print a comma followed by a space
++
+.
++
+-
++
++
++
++
++
++
+.
+
+# Loop through the characters "f", "o", "l", "l", "o", "w", "e", "d", "!" and print each one
+>
++
++
++
++
++
+[
+    <
+    +
+    +
+    +
+    +
+    +
+    >
+    -
+]
+<
+.
+>
++
++
++
++
++
++
++
+[
+    <
+    +
+    +
+    +
+    +
+    +
+    >
+    -
+]
+<
+.
+>
++
++
++
++
++
+[
+    <
+    +
+    +
+    +
+    >
+    -
+]
+<
+.
++
++
+.
++
+.
+-
+.
+
+# Stop the program
